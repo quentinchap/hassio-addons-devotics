@@ -41,3 +41,4 @@ The Software is provided “as is”, without warranty of any kind, express or i
 
 [quentinchap]: https://github.com/quentinchap
 [contributor]: https://github.com/quentinchap/hassio-addons-devotics/graphs/contributors
+[third-party-addons]: https://home-assistant.io/hassio/installing_third_party_addons/
