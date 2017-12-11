@@ -130,5 +130,5 @@
     "ports": {
         "8245/tcp": 8245
     },
-    "image": "quentinchap/tv-custom-api-{arch}"
+    "image": "quentinchap/tv-custom-api"
 }
